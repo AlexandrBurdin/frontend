@@ -21,9 +21,17 @@
     counterElement.textContent = `${String(current + 1).padStart(2, '0')} / ${String(notes.length).padStart(2, '0')}`;
   };
 
-  button.addEventListener('click', () => {
+  const nextNote = () => {
     current = (current + 1) % notes.length;
     render();
+  };
+
+  button.addEventListener('click', nextNote);
+
+  document.addEventListener('keydown', (event) => {
+    if (event.key === 'ArrowRight' && document.activeElement === button) {
+      nextNote();
+    }
   });
 
   render();
