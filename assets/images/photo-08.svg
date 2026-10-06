@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 750" role="img" aria-label="ПОСЛЕ ФИНАЛА. Плейсхолдер для учебного сайта.">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0b1323"/>
+      <stop offset="0.58" stop-color="#233e70"/>
+      <stop offset="1" stop-color="#8e1834"/>
+    </linearGradient>
+    <pattern id="grid" width="42" height="42" patternUnits="userSpaceOnUse">
+      <path d="M42 0H0V42" fill="none" stroke="#ffffff" stroke-opacity="0.08"/>
+    </pattern>
+  </defs>
+  <rect width="1200" height="750" fill="url(#bg)"/>
+  <rect width="1200" height="750" fill="url(#grid)"/>
+  <circle cx="980" cy="140" r="220" fill="#efb6c6" fill-opacity="0.14"/>
+  <circle cx="190" cy="650" r="270" fill="#ffffff" fill-opacity="0.05"/>
+  <rect x="70" y="70" width="1060" height="610" rx="24" fill="none" stroke="#f4eee4" stroke-opacity="0.25" stroke-width="2"/>
+  <text x="110" y="145" font-family="Georgia,serif" font-size="78" font-weight="700" fill="#f4eee4">08</text>
+  <text x="110" y="245" font-family="Arial,sans-serif" font-size="30" font-weight="700" letter-spacing="6" fill="#efb6c6">ПОСЛЕ ФИНАЛА</text>
+  <text x="110" y="310" font-family="Arial,sans-serif" font-size="26" fill="#f4eee4" fill-opacity="0.88">Замените своим фото</text>
+  <text x="110" y="615" font-family="Arial,sans-serif" font-size="18" letter-spacing="3" fill="#f4eee4" fill-opacity="0.58">HEATHERS: ПОСЛЕ ЗВОНКА · УЧЕБНЫЙ ПРОЕКТ</text>
+</svg>
