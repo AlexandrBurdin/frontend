@@ -17,14 +17,11 @@ heathers-backstage/
 │   └── script.js
 └── assets/
     ├── images/
-    │   ├── stage-01-idea.svg ... stage-05-premiere.svg
-    │   ├── person-eva.svg, person-polina.svg, person-artem.svg
-    │   ├── video-01.svg, video-02.svg
-    │   ├── photo-01.svg ... photo-08.svg
-    │   └── detail-stage.svg
+    │   └── SVG-плейсхолдеры и fallback-графика
     └── video/
-        ├── rehearsal-light.mp4       # добавить самостоятельно
-        └── general-run.mp4           # добавить самостоятельно
+        └── .gitkeep
+
+> Фотографии и видео подгружаются из открытых внешних источников, чтобы сайт уже был визуально заполнен.
 ```
 
 ## Что реализовано
@@ -33,7 +30,7 @@ heathers-backstage/
 - паспорт постановки с шестью показателями;
 - пять последовательных этапов: замысел → подготовка → сцена → репетиции → премьера;
 - три участника команды с разными ролями и отдельная цитата;
-- два видео с описаниями и встроенными контролами `<video>`;
+- два реально воспроизводимых видео через встроенный YouTube-плеер;
 - фотодневник из восьми разных кадров;
 - блок «Деталь со сцены» с шестью заметками и циклическим переключением;
 - четыре и более содержательных внешних источника;
@@ -46,41 +43,40 @@ heathers-backstage/
 - локальный системный шрифт через `local()` в `@font-face` с запасными вариантами;
 - одна ненавязчивая декоративная анимация.
 
-## Как заменить плейсхолдеры
+## Фото и видео
 
-### Фотографии
+Сейчас сайт уже заполнен реальными визуальными материалами. Фотографии подключены с Wikimedia Commons по прямым адресам файлов и используются как визуальные референсы театрального процесса. Видео встроены с YouTube: это официальный трейлер и опубликованные live-кадры мюзикла Heathers.
 
-SVG-плейсхолдеры лежат в `assets/images/`. Для каждого изображения можно:
-
-1. положить свою фотографию в эту папку;
-2. заменить `src` соответствующего `<img>` в `index.html`;
-3. оставить размеры и соотношение сторон блока без изменений.
-
-Рекомендуется использовать собственные фотографии или изображения с разрешённым использованием.
-
-### Видео
-
-Поместите два файла в `assets/video/`:
-
-- `rehearsal-light.mp4` — запись световой репетиции;
-- `general-run.mp4` — запись генерального прогона.
-
-В `index.html` уже добавлены элементы `<video controls>` с fallback-текстом.
+При желании внешние источники можно заменить собственными локальными файлами, не меняя структуру карточек.
 
 ## Источники и референсы
 
-Для описания оригинального произведения и справочного блока использованы официальные страницы Concord Theatricals:
+### Оригинальный мюзикл
 
-1. **Heathers The Musical — Concord Theatricals:**
-   https://www.concordtheatricals.com/p/56725/heathers-the-musical
-2. **Heathers The Musical — материалы и видео (Concord Theatricals):**
-   https://www.concordtheatricals.de/heathers.html
-3. **Каталог музыкальных постановок Concord Theatricals:**
-   https://www.concordtheatricals.co.uk/perform/musicals
-4. **Heathers The Musical — издание и материалы:**
-   https://www.concordtheatricals.com/s/56725/heathers-the-musical
+1. [Heathers The Musical — Concord Theatricals](https://www.concordtheatricals.com/p/56725/heathers-the-musical)
+2. [Heathers The Musical — Concord Theatricals UK](https://www.concordtheatricals.co.uk/p/56725/heathers-the-musical)
+3. [Heathers — Concord Theatricals Germany](https://www.concordtheatricals.de/heathers.html)
+4. [Official London Theatre — Behind the scenes at Heathers](https://officiallondontheatre.com/news/behind-the-scenes-at-heathers-the-musical/)
 
-**Фотографии и видео учебного проекта:** внешние изображения в готовую страницу не встроены. Все текущие `assets/images/*.svg` — собственные технические плейсхолдеры, созданные для проекта. Реальные фотографии и видео пользователь должен заменить своими материалами и при необходимости указать их лицензии/авторов здесь.
+### Фотографии
+
+5. [Artists rehearsal — Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Artists_rehearsal.jpg) — CC BY-SA 4.0, автор Andy Kusama.
+6. [The Tank - 56 Seat Theater — Wikimedia Commons](https://commons.wikimedia.org/wiki/File:The_Tank_-_56_Seat_Theater.jpg) — CC BY-SA 4.0, автор Anthony Sertel Dean.
+7. [Backstage Rehearsal (34362419273) — Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Backstage_Rehearsal_(34362419273).png) — CC0 1.0, автор Sakuramai Toronto.
+8. [Set construction — Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Set_construction.jpg) — attribution only, автор KeepOnTruckin.
+9. [Stage actors — Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Stage_actors.jpg) — CC BY-SA 3.0, автор Elcaminoplaza.
+10. [Boxwood Lockers in the hallway — Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Boxwood_Lockers_in_the_hallway.jpg) — public domain, автор ChinaFlag.
+11. [Stage Curtain (11724113954) — Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Stage_Curtain_(11724113954).jpg) — CC BY-SA 2.0.
+12. [Theater stage — Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Theater_stage.jpg) — CC BY-SA 3.0, автор Beyond silence.
+13. [Costume workshop at a theatre, Prague - 8581 — Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Costume_workshop_at_a_theatre,_Prague_-_8581.jpg) — CC BY-SA 3.0, автор Jorge Royan.
+14. [Blackbox, Gateway Theatre — Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Blackbox,_Gateway_Theatre.jpg) — CC BY-SA 4.0, автор Clearlyxconfused.
+
+### Видео
+
+15. [Heathers The Musical - NEW Trailer](https://www.youtube.com/watch?v=jIgUVKxCp-o) — официальный канал HEATHERS: The Musical.
+16. [LIVE FOOTAGE from HEATHERS THE MUSICAL!](https://www.youtube.com/watch?v=Gpad8LUEwsg) — официальный канал HEATHERS: The Musical.
+
+Все тексты, даты, состав команды, показатели и название «После звонка» вымышлены и созданы специально для учебного проекта. Фотографии используются как визуальные референсы и не являются фотографиями вымышленной команды.
 
 ## Краткий план работы
 

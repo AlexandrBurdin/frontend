@@ -343,6 +343,36 @@ button {
   margin-top: 2rem;
 }
 
+.hero__side {
+  display: grid;
+  gap: 0.9rem;
+  align-self: end;
+}
+
+.hero__visual {
+  margin: 0;
+  overflow: hidden;
+  border: 1px solid rgba(244, 238, 228, 0.18);
+  border-radius: var(--radius-md);
+  background: #111827;
+  box-shadow: 0 25px 80px rgba(0, 0, 0, 0.25);
+}
+
+.hero__visual img {
+  aspect-ratio: 16 / 10;
+  height: 100%;
+  object-fit: cover;
+}
+
+.hero__visual-caption {
+  margin: 0;
+  padding: 0.65rem 0.85rem;
+  color: rgba(244, 238, 228, 0.66);
+  background: rgba(8, 16, 31, 0.86);
+  font-size: 0.72rem;
+  line-height: 1.35;
+}
+
 .hero__notice {
   display: grid;
   align-self: end;
@@ -677,8 +707,16 @@ button {
   gap: var(--gap);
 }
 
-.video-card__video {
+.video-card__video-wrap {
   aspect-ratio: 16 / 9;
+  background: #111827;
+}
+
+.video-card__video {
+  display: block;
+  width: 100%;
+  height: 100%;
+  border: 0;
   background: #111827;
 }
 
