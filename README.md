@@ -72,11 +72,18 @@ heathers-backstage/
 12. [Theater stage — Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Theater_stage.jpg) — CC BY-SA 3.0, автор Beyond silence.
 13. [Costume workshop at a theatre, Prague - 8581 — Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Costume_workshop_at_a_theatre,_Prague_-_8581.jpg) — CC BY-SA 3.0, автор Jorge Royan.
 14. [Blackbox, Gateway Theatre — Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Blackbox,_Gateway_Theatre.jpg) — CC BY-SA 4.0, автор Clearlyxconfused.
+15. [Berlin — Scenography and set construction work — 4114](https://commons.wikimedia.org/wiki/File:Berlin-_Scenography_and_set_construction_work_-_4114.jpg) — CC BY-SA 3.0, Jorge Royan.
+16. [Dresden — Scenography, set construction and theatrical scenery — 2585](https://commons.wikimedia.org/wiki/File:Dresden_-_Scenography,_set_construction_and_theatrical_scenery_-_2585.jpg) — CC BY-SA 3.0, Jorge Royan.
+17. [Dresden — Tailor at work — 2606](https://commons.wikimedia.org/wiki/File:Dresden_-_Tailor_at_work_-_2606.jpg) — CC BY-SA 3.0, Jorge Royan.
+18. [A rehearsal of an opera at Esplanade, Singapore](https://commons.wikimedia.org/wiki/File:A_rehearsal_of_an_opera_occurs_on_stage,_at_Esplanade_(a_Centre_for_Performing_Arts),_in_Singapore.jpg) — CC BY-SA 4.0, Rogbeer.
+19. [Stage of the Theatre, Esplanade, Singapore, during rehearsals](https://commons.wikimedia.org/wiki/File:Stage_of_the_Theatre,_Esplanade_%E2%80%93_Theatres_on_the_Bay,_Singapore,_during_rehearsals_-_20070119.jpg) — public domain, автор I luv erky.
+
+Эти шесть дополнительных кадров используются только в блоке «Деталь со сцены» и не повторяют изображения фотодневника. Полный список источников и лицензий также находится в [`docs/media-sources.md`](docs/media-sources.md).
 
 ### Видео
 
-15. [Heathers The Musical - NEW Trailer](https://www.youtube.com/watch?v=jIgUVKxCp-o) — официальный канал HEATHERS: The Musical.
-16. [LIVE FOOTAGE from HEATHERS THE MUSICAL!](https://www.youtube.com/watch?v=Gpad8LUEwsg) — официальный канал HEATHERS: The Musical.
+20. [Heathers The Musical - NEW Trailer](https://www.youtube.com/watch?v=jIgUVKxCp-o) — официальный канал HEATHERS: The Musical.
+21. [LIVE FOOTAGE from HEATHERS THE MUSICAL!](https://www.youtube.com/watch?v=Gpad8LUEwsg) — официальный канал HEATHERS: The Musical.
 
 Все тексты, даты, состав команды, показатели и название «После звонка» вымышлены и созданы специально для учебного проекта. Фотографии используются как визуальные референсы и не являются фотографиями вымышленной команды.
 
