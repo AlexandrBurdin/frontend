@@ -78,7 +78,7 @@ heathers-backstage/
 18. [A rehearsal of an opera at Esplanade, Singapore](https://commons.wikimedia.org/wiki/File:A_rehearsal_of_an_opera_occurs_on_stage,_at_Esplanade_(a_Centre_for_Performing_Arts),_in_Singapore.jpg) — CC BY-SA 4.0, Rogbeer.
 19. [Stage of the Theatre, Esplanade, Singapore, during rehearsals](https://commons.wikimedia.org/wiki/File:Stage_of_the_Theatre,_Esplanade_%E2%80%93_Theatres_on_the_Bay,_Singapore,_during_rehearsals_-_20070119.jpg) — public domain, автор I luv erky.
 
-Эти шесть дополнительных кадров используются только в блоке «Деталь со сцены» и не повторяют изображения фотодневника. Полный список источников и лицензий также находится в [`docs/media-sources.md`](docs/media-sources.md).
+Все шесть кадров блока «Деталь со сцены» используются только в этом блоке и не повторяют изображения фотодневника. Полный список источников и лицензий также находится в [`docs/media-sources.md`](docs/media-sources.md).
 
 ### Видео
 
