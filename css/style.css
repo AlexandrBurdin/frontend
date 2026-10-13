@@ -614,50 +614,6 @@ button {
   font-size: 0.82rem;
 }
 
-/* Placeholder visuals */
-.placeholder {
-  display: grid;
-  width: 100%;
-  height: 100%;
-  place-items: center;
-  padding: 1.5rem;
-  text-align: center;
-  background:
-    linear-gradient(135deg, rgba(39, 78, 136, 0.13), rgba(157, 24, 53, 0.12)),
-    repeating-linear-gradient(135deg, transparent 0, transparent 18px, rgba(18, 26, 43, 0.06) 19px, transparent 20px);
-}
-
-.placeholder__inner {
-  display: grid;
-  gap: 0.4rem;
-  max-width: 28ch;
-  padding: 1.1rem;
-  border: 1px dashed rgba(18, 26, 43, 0.35);
-  background: rgba(244, 238, 228, 0.72);
-}
-
-.placeholder__tag {
-  margin: 0;
-  color: var(--color-red);
-  font-size: 0.7rem;
-  font-weight: 800;
-  letter-spacing: 0.14em;
-  text-transform: uppercase;
-}
-
-.placeholder__title {
-  margin: 0;
-  font-family: "Stage Serif", Georgia, serif;
-  font-size: 1.35rem;
-  line-height: 1.05;
-}
-
-.placeholder__copy {
-  margin: 0;
-  color: var(--color-ink-soft);
-  font-size: 0.82rem;
-}
-
 /* People */
 .people {
   display: grid;
@@ -809,8 +765,6 @@ button {
   max-width: 48ch;
   min-width: 0;
   font-family: "Stage Serif", Georgia, serif;
-  /* Это развёрнутая заметка, а не крупный заголовок: длинный текст
-     должен переноситься и увеличивать карточку, а не выходить за неё. */
   font-size: clamp(1.05rem, 1.35vw, 1.3rem);
   line-height: 1.55;
   letter-spacing: normal;
@@ -981,7 +935,7 @@ button {
 /* Единственная декоративная анимация */
 @keyframes stage-pulse {
   0%, 100% { transform: scale(1); opacity: 0.82; }
-  50% { transform: scale(1.04); opacity: 1; }
+  50% { transform: scale(1.2); opacity: 1; }
 }
 
 .hero__overline::before {
