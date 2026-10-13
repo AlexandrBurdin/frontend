@@ -14,12 +14,7 @@ heathers-backstage/
 ├── css/
 │   └── style.css
 ├── js/
-│   └── script.js
-└── assets/
-    ├── images/
-    │   └── SVG-плейсхолдеры и fallback-графика
-    └── video/
-        └── .gitkeep
+    └── script.js
 
 > Фотографии и видео подгружаются из открытых внешних источников, чтобы сайт уже был визуально заполнен.
 ```
