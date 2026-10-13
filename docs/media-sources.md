@@ -27,3 +27,17 @@
 - [Dresden — Tailor at work — 2606](https://commons.wikimedia.org/wiki/File:Dresden_-_Tailor_at_work_-_2606.jpg) — CC BY-SA 3.0, Jorge Royan.
 - [A rehearsal of an opera at Esplanade, Singapore](https://commons.wikimedia.org/wiki/File:A_rehearsal_of_an_opera_occurs_on_stage,_at_Esplanade_(a_Centre_for_Performing_Arts),_in_Singapore.jpg) — CC BY-SA 4.0, Rogbeer.
 - [Stage of the Theatre, Esplanade, Singapore, during rehearsals](https://commons.wikimedia.org/wiki/File:Stage_of_the_Theatre,_Esplanade_%E2%80%93_Theatres_on_the_Bay,_Singapore,_during_rehearsals_-_20070119.jpg) — public domain, I luv erky.
+
+
+## Отдельная подборка фотодневника (8 файлов)
+
+Фотографии ниже используются только в разделе «Фотодневник». Ни один из этих файлов не используется в афише, этапах истории, карточках участников или в блоке «Деталь со сцены».
+
+- [A rehearsal in Rakvere Theatre's small stage, 2013](https://commons.wikimedia.org/wiki/File:A_rehearsal_in_Rakvere_Theatre%27s_small_stage,_2013..jpg) — автор Rakvereteater, CC BY-SA 3.0.
+- [Kolyada-Theatre, rehearsal, March 2014.02](https://commons.wikimedia.org/wiki/File:Kolyada-Theatre,_rehearsal,_March_2014.02.jpg) — автор Gerarus, CC BY-SA 4.0.
+- [Kolyada-Theatre, rehearsal, March 2014.04](https://commons.wikimedia.org/wiki/File:Kolyada-Theatre,_rehearsal,_March_2014.04.jpg) — автор Gerarus, CC BY-SA 4.0.
+- [Sound design in Rakvere Theatre 2014](https://commons.wikimedia.org/wiki/File:Sound_design_in_Rakvere_Theatre_2014..jpg) — автор Rakvereteater, CC BY-SA 3.0.
+- [Wexford Theatre Royal stageset](https://commons.wikimedia.org/wiki/File:Wexford_Theatre_Royal_stageset.jpg) — автор Andreas Praefcke, CC BY 3.0.
+- [A control room or tech booth for lighting and sound in a theatre](https://commons.wikimedia.org/wiki/File:A_control_room_or_tech_booth_for_lighting_and_sound_in_a_theatre.jpg) — автор Harrison Keely, CC BY 4.0.
+- [Trap under Alexandra Palace Theatre stage](https://commons.wikimedia.org/wiki/File:Trap_under_Alexandra_Palace_Theatre_stage.jpg) — автор CuriosityScribe, CC0 1.0.
+- [The Theater Prop Room (3632767321)](https://commons.wikimedia.org/wiki/File:The_Theater_Prop_Room_(3632767321).jpg) — автор Tulane Public Relations, CC BY 2.0.

@@ -45,7 +45,7 @@ heathers-backstage/
 
 ## Фото и видео
 
-Фотодневник содержит восемь разных изображений. В блоке «Деталь со сцены» каждая из шести заметок показывает свою фотографию; изображения в этом блоке не повторяют фотографии фотодневника.
+Фотодневник содержит восемь отдельных фотографий: они не повторяются ни в афише, ни в пяти этапах истории, ни в карточках команды, ни в шести заметках блока «Деталь со сцены». У каждой заметки также собственная фотография, не входящая в фотодневник.
 
 Сейчас сайт уже заполнен реальными визуальными материалами. Фотографии подключены с Wikimedia Commons по прямым адресам файлов и используются как визуальные референсы театрального процесса. Видео встроены с YouTube: это официальный трейлер и опубликованные live-кадры мюзикла Heathers.
 
@@ -78,12 +78,24 @@ heathers-backstage/
 18. [A rehearsal of an opera at Esplanade, Singapore](https://commons.wikimedia.org/wiki/File:A_rehearsal_of_an_opera_occurs_on_stage,_at_Esplanade_(a_Centre_for_Performing_Arts),_in_Singapore.jpg) — CC BY-SA 4.0, Rogbeer.
 19. [Stage of the Theatre, Esplanade, Singapore, during rehearsals](https://commons.wikimedia.org/wiki/File:Stage_of_the_Theatre,_Esplanade_%E2%80%93_Theatres_on_the_Bay,_Singapore,_during_rehearsals_-_20070119.jpg) — public domain, автор I luv erky.
 
+
+### Восемь отдельных фотографий фотодневника
+
+20. [A rehearsal in Rakvere Theatre's small stage, 2013](https://commons.wikimedia.org/wiki/File:A_rehearsal_in_Rakvere_Theatre%27s_small_stage,_2013..jpg) — CC BY-SA 3.0, автор Rakvereteater.
+21. [Kolyada-Theatre, rehearsal, March 2014.02](https://commons.wikimedia.org/wiki/File:Kolyada-Theatre,_rehearsal,_March_2014.02.jpg) — CC BY-SA 4.0, автор Gerarus.
+22. [Kolyada-Theatre, rehearsal, March 2014.04](https://commons.wikimedia.org/wiki/File:Kolyada-Theatre,_rehearsal,_March_2014.04.jpg) — CC BY-SA 4.0, автор Gerarus.
+23. [Sound design in Rakvere Theatre 2014](https://commons.wikimedia.org/wiki/File:Sound_design_in_Rakvere_Theatre_2014..jpg) — CC BY-SA 3.0, автор Rakvereteater.
+24. [Wexford Theatre Royal stageset](https://commons.wikimedia.org/wiki/File:Wexford_Theatre_Royal_stageset.jpg) — CC BY 3.0, автор Andreas Praefcke.
+25. [A control room or tech booth for lighting and sound in a theatre](https://commons.wikimedia.org/wiki/File:A_control_room_or_tech_booth_for_lighting_and_sound_in_a_theatre.jpg) — CC BY 4.0, автор Harrison Keely.
+26. [Trap under Alexandra Palace Theatre stage](https://commons.wikimedia.org/wiki/File:Trap_under_Alexandra_Palace_Theatre_stage.jpg) — CC0 1.0, автор CuriosityScribe.
+27. [The Theater Prop Room (3632767321)](https://commons.wikimedia.org/wiki/File:The_Theater_Prop_Room_(3632767321).jpg) — CC BY 2.0, автор Tulane Public Relations.
+
 Все шесть кадров блока «Деталь со сцены» используются только в этом блоке и не повторяют изображения фотодневника. Полный список источников и лицензий также находится в [`docs/media-sources.md`](docs/media-sources.md).
 
 ### Видео
 
-20. [Heathers The Musical - NEW Trailer](https://www.youtube.com/watch?v=jIgUVKxCp-o) — официальный канал HEATHERS: The Musical.
-21. [LIVE FOOTAGE from HEATHERS THE MUSICAL!](https://www.youtube.com/watch?v=Gpad8LUEwsg) — официальный канал HEATHERS: The Musical.
+28. [Heathers The Musical - NEW Trailer](https://www.youtube.com/watch?v=jIgUVKxCp-o) — официальный канал HEATHERS: The Musical.
+29. [LIVE FOOTAGE from HEATHERS THE MUSICAL!](https://www.youtube.com/watch?v=Gpad8LUEwsg) — официальный канал HEATHERS: The Musical.
 
 Все тексты, даты, состав команды, показатели и название «После звонка» вымышлены и созданы специально для учебного проекта. Фотографии используются как визуальные референсы и не являются фотографиями вымышленной команды.
 
