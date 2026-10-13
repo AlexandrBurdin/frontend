@@ -779,7 +779,7 @@ button {
 /* Detail */
 .detail {
   display: grid;
-  grid-template-columns: minmax(0, 0.75fr) minmax(0, 1.25fr);
+  grid-template-columns: minmax(0, 0.85fr) minmax(0, 1.15fr);
   gap: 1rem;
   align-items: stretch;
 }
@@ -788,8 +788,9 @@ button {
   display: flex;
   flex-direction: column;
   justify-content: center;
+  min-width: 0;
   min-height: 360px;
-  padding: clamp(1.5rem, 4vw, 3rem);
+  padding: clamp(1.1rem, 2.2vw, 2rem);
   border: 1px solid rgba(244, 238, 228, 0.14);
   background: linear-gradient(145deg, rgba(215, 154, 170, 0.12), rgba(39, 78, 136, 0.14));
 }
@@ -804,26 +805,43 @@ button {
 }
 
 .detail__note {
-  margin: 1.2rem 0 0;
-  max-width: 24ch;
+  margin: 1rem 0 0;
+  max-width: 48ch;
+  min-width: 0;
   font-family: "Stage Serif", Georgia, serif;
-  font-size: clamp(2rem, 5vw, 4.2rem);
-  line-height: 0.95;
-  letter-spacing: -0.045em;
-  text-wrap: balance;
+  /* Это развёрнутая заметка, а не крупный заголовок: длинный текст
+     должен переноситься и увеличивать карточку, а не выходить за неё. */
+  font-size: clamp(1.05rem, 1.35vw, 1.3rem);
+  line-height: 1.55;
+  letter-spacing: normal;
+  text-wrap: pretty;
+  overflow-wrap: anywhere;
+  hyphens: auto;
 }
 
 .detail__controls {
   display: flex;
-  align-items: center;
-  gap: 0.9rem;
-  margin-top: 2rem;
+  align-items: flex-start;
+  flex-wrap: wrap;
+  gap: 0.75rem;
+  min-width: 0;
+  margin-top: 1.5rem;
+}
+
+.detail__controls .button {
+  max-width: 100%;
+  white-space: normal;
 }
 
 .detail__hint {
+  flex: 1 1 9rem;
+  min-width: 0;
+  max-width: 24ch;
   margin: 0;
   color: rgba(244, 238, 228, 0.62);
   font-size: 0.8rem;
+  overflow-wrap: anywhere;
+  hyphens: auto;
 }
 
 .detail__figure {
